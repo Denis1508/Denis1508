@@ -6,7 +6,7 @@ for(let i=0;i<aBis;i++){
 let aT=3;
 while(aT<9){
     aT++
-    if(aT==7){
+    if(aT==7){e
         continue
     }
     if(aT==8){
