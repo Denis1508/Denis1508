@@ -1,6 +1,6 @@
 "use strict";
 
-const Number_of_survivors = 50;
+const Number_of_survivors = 5;
 const Names = ["Noob","Pro","Canard","Ratio","Porte","Voiture","Piano","Chaise","Table","Helicoptere"]
 
 let Killer_HP = 100
